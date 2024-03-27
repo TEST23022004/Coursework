@@ -1,0 +1,29 @@
+{
+  "name": "ticketron",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "autoprefixer": "10.4.14",
+    "bcryptjs": "^2.4.3",
+    "eslint": "8.46.0",
+    "eslint-config-next": "13.4.12",
+    "mongoose": "^7.4.1",
+    "next": "^13.5.6",
+    "next-auth": "^4.22.3",
+    "postcss": "^8.4.35",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
